@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Home", "color": "text-yellow-500" },
+  { "id": 2, "name": "Explore Topics", "color": "text-yellow-500" },
+  { "id": 3, "name": "My Answers", "color": "text-yellow-500" }
+]
